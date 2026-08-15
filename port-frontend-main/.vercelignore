@@ -1,0 +1,22 @@
+# ============================================
+# IGNORE NODE_MODULES AND OTHER LARGE FILES
+# ============================================
+node_modules/
+.git/
+.env
+.env.local
+.env.production
+.env.development
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.iml
+coverage/
+.nyc_output/
+.vercel/
+*.pem
+*.key
+*.crt
+*.p12
