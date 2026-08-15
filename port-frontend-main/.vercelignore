@@ -16,8 +16,6 @@ Thumbs.db
 coverage/
 .nyc_output/
 .vercel/
-dist/
-build/
 *.pem
 *.key
 *.crt
